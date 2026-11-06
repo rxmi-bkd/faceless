@@ -4,4 +4,4 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Tools
 
-- `tools/yt-dlp` — a standalone `yt-dlp` binary (about 3 MB, untracked). Run it directly, e.g. `./tools/yt-dlp <url>`. It is not managed by any package manager.
+- `tools/yt-dlp` — a standalone `yt-dlp` binary (about 3 MB, tracked in git). Run it directly, e.g. `./tools/yt-dlp <url>`. It is not managed by any package manager.
